@@ -12,3 +12,6 @@ __pycache__/
 .venv/
 venv/
 .ipynb_checkpoints/
+
+# Internal evaluator files (do not share with applicants)
+evaluator_kit/
